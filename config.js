@@ -21,13 +21,13 @@ global.statusseen = false;                 //make true to view statuses
 
 
 //
-/*global.Owner = process.env.OWNER || "2347045174399";// Owner number
-global.OwnerNumber = process.env.OWNER_NUMBER || "2347045174399" ;// Also owner number
-global.ownertag = process.env.OWNER_TAG || "2347045174399";// Also owner number
-global.sessID = process.env.sessID || ""; //Session ID here.
-global.OwnerName = process.env.OWNER_NAME || "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";// Owner Name
-global.BotName = "🐦Makino-md-v2";//Do not change 🥵
-global.packname = process.env.PACKNAME || "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";//Sticker pack name.
+/*global.Owner = process.env.OWNER || "2348133286181";// Owner number
+global.OwnerNumber = process.env.OWNER_NUMBER || "2348133286181" ;// Also owner number
+global.ownertag = process.env.OWNER_TAG || "2348133286181";// Also owner number
+global.sessID = process.env.sessID || "{"noiseKey":{"private":{"type":"Buffer","data":"8IXPWA0RNnr6MyYO+nIEfBH1W3x/0dUdiyGsPqRa+EU="},"public":{"type":"Buffer","data":"DjS7x4EczXQm+08aigj0cEm0hc7soW9IeRE8IT3962c="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"4DD9o4Fs3bE6GY0n4lvJQLdEVEv1PoDWz8zZwM07R2A="},"public":{"type":"Buffer","data":"vBBc6qV862KCIDWId9GIRRYa6u2qyupNX26VRWzq8ww="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"uL+tOU6HUBJt6WQSekMY3rkINS3QbM1koELylf7jh2c="},"public":{"type":"Buffer","data":"hnDGiZeUr/A6NP0UX9ykZJRSDuzwPaCxQRZEwrE3L0o="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"CHbQPvM4iuBGhwGnGfRP5rmNdofAt7TtlVc+AN0OSWw="},"public":{"type":"Buffer","data":"ckfiDsy/3bPMJhLxzyUW+kGuKnbL7hSMUHn2GUuO1Ao="}},"signature":{"type":"Buffer","data":"7nRCXZqFZbyB7EyJMMdaoywfUhaVaIP5j8oNKA/Eep9YG+UoEDBdG2jRj2X5ITwuf3TnETvslo48r7TqJSaGAw=="},"keyId":1},"registrationId":136,"advSecretKey":"oRgp55SQwNEdLZJWnXDk3GjlegAPpkJQCiOlBaVdkp4=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"Pvp25iESTj6QDlg1wnuj7A","phoneId":"416a352d-bd87-4955-bcc9-e7286d653415","identityId":{"type":"Buffer","data":"SCrW+I1ltBBlZpd7D61uwo4znsw="},"registered":true,"backupToken":{"type":"Buffer","data":"C0iio/54We1iJ8DcLU0TMj2wgOo="},"registration":{},"pairingCode":"BZHVVWG6","me":{"id":"2348133286181:38@s.whatsapp.net","name":"𝚴𝚯 𝚴𝚫𝚳𝚵 𝚳𝐃"},"account":{"details":"CLXevKkHEOCxrbMGGAcgACgA","accountSignatureKey":"KqeAPEy+hmvglVQiWdoUmmznCKxWhdGcNe+fffx8iQI=","accountSignature":"6Lv6dJnE/yrVZlXuE/mpwnj6J+Q5QNL4mGyr5i9hQF9ieMOLBJxBLCS/ttow6cvhIdnuhS/6s8wPMCR/qXkOCg==","deviceSignature":"QHbPXvf7YSW0vaUIn3dTT/zUH51D4kZX/injjrBYvNPGu7ty6mAfzAJjTakwxiD09RnmxfG8CECBYLca3xy0Cg=="},"signalIdentities":[{"identifier":{"name":"2348133286181:38@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BSqngDxMvoZr4JVUIlnaFJps5wisVoXRnDXvn338fIkC"}}],"platform":"smba","lastAccountSyncTimestamp":1718311149}"; //Session ID here.
+global.OwnerName = process.env.OWNER_NAME || "No Name MD";// Owner Name
+global.BotName = "No Name MD";//Do not change 🥵
+global.packname = process.env.PACKNAME || "No Name Tech";//Sticker pack name.
 global.author = "🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";//Do not change                            //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change or bot will not function.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
